@@ -1,2 +1,2 @@
 # SimpleIndexer.rs
-Simple index and search implementation written in RUst
+Simple index and search implementation written in Rust
